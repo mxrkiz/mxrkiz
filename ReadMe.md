@@ -17,15 +17,6 @@ Electrical engineering student. Currently into bots, automation, and small QoL t
   <img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Home Assistant"/>
 </p>
 
-## GitHub Stats
-<div align="center">
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=mxrkiz&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false" alt="Stats"/>
-  <img height="180" src="https://streak-stats.demolab.com/?user=mxrkiz&theme=github_dark_dimmed&hide_border=false" alt="Streak"/>
-</div>
-
 <div align="center">
   <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mxrkiz&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"/>
 </div>
-
-## Support me
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/markizdewho) 
