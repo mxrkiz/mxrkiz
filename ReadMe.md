@@ -1,5 +1,5 @@
 # About Me:
-Electrical engineering student. Currently learning about bots and web-pages.
+Electrical engineering student. Currently into bots, automation, and small QoL tools.
 
 
 ## Socials:
