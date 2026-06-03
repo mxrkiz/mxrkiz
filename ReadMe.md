@@ -12,9 +12,6 @@ Electronics & Communication Engineering student. Currently into bots, automation
 <p align="center">
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
   <img src="https://img.shields.io/badge/LTspice-005AB4?style=for-the-badge&logoColor=white" alt="LTspice"/>
-  <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard"/>
-  <img src="https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white" alt="Zigbee"/>
-  <img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Home Assistant"/>
 </p>
 
 <div align="center">
